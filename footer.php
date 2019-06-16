@@ -12,7 +12,7 @@
              
               <dl class="contact-list">
                 <dt>موبايل</dt>
-                <dd><a href="tel:#">+20 102 873 5701 </a> <span>
+                <dd><a href="tel:#">+20 102 873 5701
                 </dd>
               </dl>
             </div>
