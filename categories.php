@@ -6,7 +6,7 @@
             <div class="card">
                 <img src="Public/images/malahy/dreamPark/2.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title text-center">الانشطة النرفيهية</h5>
+                    <h5 class="card-title text-center">الانشطة الترفيهية</h5>
                 </div>
             </div>
         </a>
