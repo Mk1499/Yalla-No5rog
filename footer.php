@@ -7,16 +7,12 @@
             <div class="col-md-4">
              <strong> <h5>التواصل</h5> </strong>
               <dl class="contact-list">
-                <dt>العنوان</dt>
-                    <dd>عنوان المقر الرئيسي
-                        مصر الجديدة  ,    
-                        ميدان سانت فاتيما         
-                    </dd>   
+                
               </dl>
              
               <dl class="contact-list">
                 <dt>موبايل</dt>
-                <dd><a href="tel:#">+20 102 873 5701 </a> <span>or</span> <a href="tel:#">+91 9571195353</a>
+                <dd><a href="tel:#">+20 102 873 5701 </a> <span>or</span> <a href="tel:#">+</a>
                 </dd>
               </dl>
             </div>
