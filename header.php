@@ -2,6 +2,7 @@
   // $base = __DIR__ ; 
   // $base = "http://127.0.0.1/YallaNo5rog/" ;
   $base = "https://yallano5rog.herokuapp.com/" ;  
+  // $base = "http://192.168.1.9/YallaNo5rog/" ;
 
   if ($page_title == null)
   $page_title = "يلا نخرج" ;

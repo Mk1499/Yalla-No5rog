@@ -52,6 +52,7 @@ div.navbar-collapse{
     padding : 10% ;
     padding-top: 18% ; 
 }
+
 .banner a {
     color : #eee
 }
@@ -149,4 +150,14 @@ ul, ol {
 footer{
     padding: 5% ; 
     background-color: #000
+}
+
+@media screen and (max-width: 600px){
+    .banner .shadow{
+        padding : 10% ;
+        padding-top: 38% ; 
+    } 
+    .card img {
+        height : 35vw !important; 
+    }  
 }
