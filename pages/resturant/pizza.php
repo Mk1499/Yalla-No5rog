@@ -37,7 +37,7 @@
         <hr />
         <!-- Cafe Description -->
         <p class="h7 text-center card desc">
-مطعم المصطبه يخليك تعيش احلى ليالى زمان        </p>
+هتاكل احلى بيتزا طعم يسفرك ايطاليا        </p>
         <hr />
 
         <!-- Cafe Info -->
