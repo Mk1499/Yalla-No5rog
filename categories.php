@@ -17,7 +17,7 @@
             <div class="card">
                 <img src="Public/images/restaurate/mastaba/2.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title text-center">المطاعم</h5>
+                    <h5 class="card-title text-center">مطاعم</h5>
                 </div>
             </div>
         </a>
@@ -29,7 +29,7 @@
             <div class="card">
                 <img src="Public/images/cafes/Coffee Corner/1.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title text-center">الكافيهات</h5>
+                    <h5 class="card-title text-center">كافيهات</h5>
                 </div>
             </div>
         </a>
