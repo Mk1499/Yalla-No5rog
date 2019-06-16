@@ -1,0 +1,150 @@
+
+/* ======================= Public =============================== */
+
+body {
+    background: #333
+}
+
+.shadow{
+    background: rgba(0, 0, 0, 0.6) ; 
+    height: 100%;
+    width: 100% ;
+    color: #eee ; 
+
+}
+
+/* Cards  */
+.card img {
+    height : 20vw !important; 
+}
+
+.card {
+    margin-bottom: 5vw ; 
+    margin-top: 5vw ; 
+    
+}
+
+/* ============================ Nav Bar =================================================== */
+nav{
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+}
+div.navbar-collapse{
+    float: right;
+}
+
+/* Content */
+.content{
+    /* margin: 5% ; */
+}
+
+/* Banner */
+.banner{
+    background: url('../images/Entertainment.jpg') fixed no-repeat ;
+    background-size: cover ; 
+    height: 400px;
+}
+.banner .shadow{
+    padding : 10% ;
+    padding-top: 18% ; 
+}
+.banner a {
+    color : #eee
+}
+
+/* Categories */
+.cat{
+    background: #eee ; 
+    padding: 5% ;
+}
+.cat a{
+    color : #333 ; 
+    text-decoration: none ; 
+}
+
+/* Sign Up*/
+.signin{
+    animation-duration: 1s;
+    /* background-color: #eee; */
+    background-color: #0f84ec;
+    color : #eee ;
+    padding: 4%;
+    position: fixed;
+    top: 30%;
+    width: 70%;
+    margin-left: 7%;
+    visibility: hidden;
+    z-index: 500;
+}
+
+/*  Close Button */
+.close{
+    position: absolute;
+    top: 3%;
+}
+
+/* Footer */
+.context-dark, .bg-gray-dark, .bg-primary {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+    color: #ffffff;
+}
+.nav-list li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-list li a:hover:before {
+    margin-left: 0;
+    opacity: 1;
+    visibility: visible;
+}
+
+ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 23px;
+    font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.5);
+}
+.social-container .col {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.nav-list li a:before {
+    content: "\f14f";
+    font: 400 21px/1 "Material Design Icons";
+    color: #4d6de6;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-left: -28px;
+    margin-right: 7px;
+    opacity: 0;
+    visibility: hidden;
+    transition: .22s ease;
+}
+
+/* Cofee */
+.desc{
+    background-color: #0f84ec ; 
+    color: #eee ; 
+    width: 100% ; 
+    padding: 5% ;
+}
+
+footer{
+    padding: 5% ; 
+    background-color: #000
+}
