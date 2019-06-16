@@ -32,7 +32,7 @@
         </ul>
     </div>
 
-    <a class="navbar-brand col-md-3" href=href=<?php echo $base."index.php"?>>
+    <a class="navbar-brand col-md-3" href=<?php echo $base."index.php"?>>
         <img src=<?php echo $base."Public/images/logo.png" ?> />
     </a>
 </nav>
