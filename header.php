@@ -1,6 +1,6 @@
 <?php 
-  $base = __DIR__ ; 
-//   $base = "http://192.168.1.9/YallaNo5rog/" ; 
+//   $base = __DIR__ ; 
+  $base = "https://yallano5rog.herokuapp.com/" ; 
   if ($page_title == null)
   $page_title = "يلا نخرج" ;
 ?>
